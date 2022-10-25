@@ -1,1 +1,1 @@
-<p align="center"><img src="[https://images.velog.io/images/baekmoon1230/post/e4a447f1-0a3a-4344-9dc2-02aa82b70a96/P20210607_231651348_AE14BA4E-57AE-4A83-9D57-B56C48FD1E53.JPG](https://raw.githubusercontent.com/ZConverter/ZConverter/main/Main_logo.png)" height="100px" width="300px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ZConverter/ZConverter/main/Main_logo.png" height="100px" width="300px"></p>
